@@ -1,0 +1,86 @@
+[
+    {
+        "genotype": "P2_Collective_Welfare_Maximizer",
+        "fidelity_passed": true,
+        "produced_move": "D",
+        "target_move": "D",
+        "raw_data": "D",
+        "metadata": {
+            "model_used": "qwen3:8b",
+            "input_tokens": 409,
+            "output_tokens": 1825,
+            "latency_seconds": 75.1873,
+            "ollama_total_duration_ns": 75183417459
+        }
+    },
+    {
+        "genotype": "P3_Forgiving_Reciprocator",
+        "fidelity_passed": true,
+        "produced_move": "C",
+        "target_move": "C",
+        "raw_data": "C",
+        "metadata": {
+            "model_used": "qwen3:8b",
+            "input_tokens": 421,
+            "output_tokens": 514,
+            "latency_seconds": 21.8269,
+            "ollama_total_duration_ns": 21824824167
+        }
+    },
+    {
+        "genotype": "P4_Grim_Punisher",
+        "fidelity_passed": true,
+        "produced_move": "D",
+        "target_move": "D",
+        "raw_data": "D",
+        "metadata": {
+            "model_used": "qwen3:8b",
+            "input_tokens": 406,
+            "output_tokens": 505,
+            "latency_seconds": 23.8707,
+            "ollama_total_duration_ns": 23867686084
+        }
+    },
+    {
+        "genotype": "P1_Rational_Maximizer",
+        "fidelity_passed": true,
+        "produced_move": "D",
+        "target_move": "D",
+        "raw_data": "D",
+        "metadata": {
+            "model_used": "qwen3:8b",
+            "input_tokens": 421,
+            "output_tokens": 949,
+            "latency_seconds": 49.9486,
+            "ollama_total_duration_ns": 49946027375
+        }
+    },
+    {
+        "genotype": "P12_Norm_Follower",
+        "fidelity_passed": true,
+        "produced_move": "C",
+        "target_move": "C",
+        "raw_data": "C",
+        "metadata": {
+            "model_used": "qwen3:8b",
+            "input_tokens": 380,
+            "output_tokens": 270,
+            "latency_seconds": 14.6152,
+            "ollama_total_duration_ns": 14613219583
+        }
+    },
+    {
+        "genotype": "P10_Risk-Averse_Agent",
+        "fidelity_passed": true,
+        "produced_move": "D",
+        "target_move": "D",
+        "raw_data": "D",
+        "metadata": {
+            "model_used": "qwen3:8b",
+            "input_tokens": 436,
+            "output_tokens": 443,
+            "latency_seconds": 23.7334,
+            "ollama_total_duration_ns": 23731429959
+        }
+    }
+]

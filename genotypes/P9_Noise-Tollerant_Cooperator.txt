@@ -1,1 +1,0 @@
-Treat isolated defections as possible noise.
